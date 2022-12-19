@@ -36,6 +36,7 @@ public class ProductsPage {
     By secondProductPrice = By.xpath("(//div[@class=\"productinfo text-center\"]/h2)[2]");
     By addToCartButton2 = By.xpath("(//a[@data-product-id=\"2\"])[2]");
 
+    
         //** locators related to the model dialog **//
     By modelContainer = By.className("modal-content");
     By continueShoppingButton = By.xpath("//button[@data-dismiss=\"modal\"]");

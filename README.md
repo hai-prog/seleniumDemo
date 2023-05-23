@@ -1,6 +1,7 @@
 # Selenium Java AutomationExercise Project
 
-This project is a Selenium automation script for practicing web automation on the AutomationExercise website (https://automationexercise.com/), using the Java programming language and following the Page Object Model (POM) design pattern.
+This project is a Selenium automation script for practicing web automation on the AutomationExercise website (https://automationexercise.com/), using the Java programming language and following the Page Object Model (POM) design pattern. It utilizes the TestNG testing framework and Maven build tool for project management.
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -19,8 +20,9 @@ The main purpose of this project is to provide a reference implementation of the
 ## Requirements
 To run this project, you need to have the following requirements installed on your system:
 - Java Development Kit (JDK) (version 8 or higher)
-- Selenium Java library
-- WebDriver compatible with your browser (e.g., ChromeDriver for Chrome)
+- Selenium Java dependancy
+- TestNG dependancy
+- Maven build tool
 
 ## Installation
 1. Clone the project repository to your local machine:
@@ -28,8 +30,7 @@ To run this project, you need to have the following requirements installed on yo
  
 2. Import the project into your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA).
 
-3. Configure the Selenium Java library in your project:
-- Download the Selenium Java library from the official Selenium website: https://www.selenium.dev/downloads/
+3. Configure the Selenium Java in your project:
 - Add the Selenium Java library to your project's classpath.
 
 

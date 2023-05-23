@@ -9,8 +9,7 @@ This project is a Selenium automation script for practicing web automation on th
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 The AutomationExercise website provides a platform for practicing web automation using Selenium. This project demonstrates how to automate various tasks on the website using Selenium in Java and follows the Page Object Model design pattern. Each web page in the application has its corresponding Java class, which encapsulates the page's elements and related actions. Additionally, the project includes separate packages for different test scenarios, such as login, registration, and product-related tests.
